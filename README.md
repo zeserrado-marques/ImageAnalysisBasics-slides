@@ -6,6 +6,11 @@ Links present in the slides:
 - [_Colour Correct_](https://github.com/landinig/IJ-Colour_Correct/blob/main/colour_correct.zip) plugin from [Gabriel Landini](https://blog.bham.ac.uk/intellimic/g-landini-software/)
 - [Bio-Formats](https://imagej.net/formats/bio-formats)
 
+### Homework
+
+Measure Leaf Area and calculate the chlorophyll area percentage.
+
+
 ## Extra Info
 Really good lessons on Image Analysis - https://www.youtube.com/channel/UC-hlwQ9Q4GS3rtv2EwSStAQ
 
