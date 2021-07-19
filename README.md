@@ -1,5 +1,5 @@
 # ImageAnalysisBasics-slides
-Slides and image for the course "Intro to Image Analysis" lectured at IGC
+Slides and image for my part ("How to load, read and obtain information from images")in the course "Intro to Image Analysis" lectured at IGC
 
 Links present in the slides:
 - Articles on colorblind friendly mode, [short](https://thenode.biologists.com/data-visualization-with-flying-colors/research/) and [long](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-21-8-9862&id=252779)
