@@ -8,7 +8,7 @@ Links present in the slides:
 
 ### Homework
 
-Measure Leaf Area and calculate the chlorophyll area percentage.
+Measure Leaf Area and calculate the chlorophyll area percentage in an automated manner (using the threshold tool).
 
 
 ## Extra Info
